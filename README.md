@@ -6,6 +6,7 @@
 2.配置git的环境变量
 3.window+R  ---> cmd  ----> 到你要下载工程的目录
 4.执行命令 git clone https://github.com/luhui2014/dream.git
-5.等待下载就好了
+5.等待提示输入用户名 ，密码
+6.等待下载就好了
 
 
